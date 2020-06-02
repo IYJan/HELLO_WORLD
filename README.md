@@ -1,2 +1,2 @@
-# HELLO_WORLD
+# startjava
 First lessons
